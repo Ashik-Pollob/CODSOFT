@@ -13,3 +13,11 @@ This dataset is originally from the National Institute of Diabetes and Digestive
 - DiabetesPedigreeFunction: Diabetes pedigree function
 - Age: Age (years)
 - Outcome: Class variable (0 or 1)
+## Data Visualization
+Visualizing the results of the analysis
+### Explaratory Data Analysis
+![1 Histograms](https://github.com/user-attachments/assets/712e7887-fbc6-481a-b838-1f03b6fb86e8)
+![2 Countplot](https://github.com/user-attachments/assets/caacca49-dc81-402e-abe0-7d1c33865188)
+![3 Correlation](https://github.com/user-attachments/assets/f9e862f8-81cf-44f0-9539-c43ba1d5edd4)
+
+### Machine Learning
